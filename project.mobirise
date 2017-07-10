@@ -15,7 +15,7 @@
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
@@ -122,7 +122,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">COMERCIFY<br></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">BENEFÍCIOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">FUNCIONALIDADES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">PREÇOS E PLANOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">ENTRE EM SUA LOJA</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-9\">BENEFÍCIOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-1\">FUNCIONALIDADES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-5\">PREÇOS E PLANOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">ENTRE EM SUA LOJA</a></li>"
         },
         {
           "_name": "header1",
@@ -233,7 +233,7 @@
           },
           "title2": "VISÃO DE NEGÓCIO",
           "subtitle2": "",
-          "caption2": "ANÁLISE SEUS DADOS DE VENDAS FORNECIDOS<br>PELA NOSSA EQUIPE.",
+          "caption2": "ANALISE SEUS DADOS DE VENDAS FORNECIDOS<br>PELA NOSSA EQUIPE.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -477,9 +477,9 @@
           "price1": "39,90",
           "period1": "/MÊS.",
           "description1": "",
-          "list1": "<p>HISTÓRICO DE VENDAS</p><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">SUBDOMINÍO DO NOSSO SITE EM SUA LOJA</li><li class=\"list-group-item\">INFORMAÇÕES SOBRE O SEU NEGÓCIO</li></ul><p></p>",
+          "list1": "<p>HISTÓRICO DE VENDAS&nbsp;</p><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">SUBDOMINÍO DO NOSSO SITE EM SUA LOJA</li><li class=\"list-group-item\">INFORMAÇÕES SOBRE O SEU NEGÓCIO</li></ul><p></p>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ASSINE JÁ</a>",
-          "label2": "HOT!",
+          "label2": "MAIS VENDIDO<br><br>",
           "title2": "PLANO STANDART",
           "subtitle2": "",
           "currency2": "R$",
